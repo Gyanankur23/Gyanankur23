@@ -5,113 +5,66 @@ Welcome to my GitHub profile! I'm an enthusiastic learner and multi-domain explo
 This README showcases the **top 100 certifications** I've completed, focusing on highly relevant technical and business domains.
 
 ---
+# 🎓 **Certifications Portfolio**  
+This repository showcases my **industry-recognized certifications** in **AI, Data Science, Cloud Computing, Business, and Finance**.
 
-## 🏅 Top 100 Certifications (June 2024 – June 2025)
+## 🚀 **Technology & Data Science**
+- **Google Cloud** – Introduction to Generative AI *(Completion Badge)*
+- **IBM SkillsBuild** – Working in a Digital World: Professional Skills *(Completion Badge)*
+- **Simplilearn SkillUP** – Introduction to Image Generation *(09 Oct 2024)*
+- **Mastercard Forage** – Advisors & Consulting Services Job Simulation *(01 Feb 2025)*
+- **British Airways Forage** – Data Science Job Simulation *(01 Feb 2025)*
+- **TATA Forage** – Data Visualization: Empowering Business Insights *(04 Jan 2025)*
+- **LinkedIn Learning** – Generative AI for Business Leaders *(02 Apr 2025)*
+- **Google Cloud** – Use APIs to Work with Cloud Storage *(Skill Badge)*
+- **Simplilearn SkillUP** – PostgreSQL: Become an SQL Developer *(11 Oct 2024)*
+- **Simplilearn SkillUP** – Encoder-Decoder Architecture *(12 Oct 2024)*
+- **Simplilearn SkillUP** – Introduction to Data Analytics *(04 Apr 2025)*
+- **Simplilearn SkillUP** – Statistics for Data Science *(10 Oct 2024)*
+- **Saint Louis University Excelerate** – Digital Wellness & Mindful Tech Use *(28 Mar 2025)*
+- **IBM SkillsBuild** – Solving Problems with Critical and Creative Thinking *(21 Feb 2025)*
+- **IBM SkillsBuild** – Collaborate Effectively *(21 Feb 2025)*
+- **IBM SkillsBuild** – Deliver Quality Work with Agility *(21 Feb 2025)*
+- **IBM SkillsBuild** – Data Science Landscape *(30 Dec 2024)*
+- **IBM SkillsBuild** – Present with Purpose *(30 Dec 2024)*
+- **IBM SkillsBuild** – Introduction to Tableau Desktop *(30 Dec 2024)*
+- **IBM SkillsBuild** – Introduction to Artificial Intelligence *(30 Dec 2024)*
+- **Google Cloud** – Get Started with Google Workspace Tools *(Skill Badge)*
+- **Google Cloud** – Preparing for your Professional Data Engineer Journey *(Completion Badge)*
+- **Google Cloud** – Analyze BigQuery Data in Connected Sheets *(Skill Badge)*
+- **Google Cloud** – Build Real World AI Applications with Gemini and Imagen *(Skill Badge)*
+- **Google Cloud** – Deploy Kubernetes Applications on Google Cloud *(Skill Badge)*
+- **IBM SkillsBuild** – Getting Started with Data *(30 Dec 2024)*
+- **IBM SkillsBuild** – Data Fundamentals *(20 Apr 2025)*
+- **IBM SkillsBuild** – Artificial Intelligence Fundamentals *(09 Jun 2025)*
+- **IBM SkillsBuild** – Data Fundamentals with Capstone *(08 Jun 2025)*
+- **IBM Cognitive Class** – Python 101 for Data Science *(14 Apr 2025)*
+- **Google Cloud** – Engineer Data for Predictive Modeling with BigQuery ML *(Skill Badge)*
+- **Google Cloud** – Develop GenAI Apps with Gemini and Streamlit *(Skill Badge)*
+- **Google Cloud** – Inspect Rich Documents with Gemini Multimodality and Multimodal RAG *(Skill Badge)*
+- **Google Cloud** – Trust and Security with Google Cloud *(Completion Badge)*
+- **Google Cloud** – Build Infrastructure with Terraform on Google Cloud *(Skill Badge)*
 
-| No. | Certification Name | Platform |
-|-----|--------------------|----------|
-| 1 | Google Cloud Generative AI Fundamentals | Google Cloud Skills Boost |
-| 2 | Introduction to Generative AI | Google Cloud |
-| 3 | Introduction to Large Language Models | Google Cloud |
-| 4 | Responsible AI: Applying AI Principles with Google Cloud | Google Cloud |
-| 5 | Generative AI with Large Language Models | Coursera |
-| 6 | Machine Learning Specialization | Coursera |
-| 7 | AI For Everyone | Coursera |
-| 8 | Prompt Engineering for ChatGPT | Coursera |
-| 9 | Introduction to Cybersecurity | Cisco Networking Academy |
-| 10 | Cyber Threat Management | Cisco Networking Academy |
-| 11 | Network Defense | Cisco Networking Academy |
-| 12 | Cybersecurity Essentials | Cisco Networking Academy |
-| 13 | Python for Everybody Specialization | Coursera |
-| 14 | Applied Data Science with Python | Coursera |
-| 15 | IBM Data Science Professional Certificate | Coursera |
-| 16 | Python Programming Essentials | NPTEL |
-| 17 | Cloud Computing Basics | NPTEL |
-| 18 | Introduction to Cloud Computing | Coursera |
-| 19 | AWS Cloud Practitioner Essentials | Amazon Web Services |
-| 20 | Azure Fundamentals AZ-900 | Microsoft Learn |
-| 21 | Microsoft Power BI Data Analyst | Coursera |
-| 22 | Power BI for Business Analytics | Great Learning |
-| 23 | SQL for Data Science | Coursera |
-| 24 | Intermediate SQL | DataCamp |
-| 25 | Advanced SQL for Data Scientists | Coursera |
-| 26 | Data Visualization with Python | Coursera |
-| 27 | Excel for Business – Essentials | Coursera |
-| 28 | Advanced Excel Skills | Simplilearn |
-| 29 | Statistics for Data Science | Coursera |
-| 30 | Business Analytics Specialization | Coursera |
-| 31 | Introduction to Data Analytics | IBM SkillsBuild |
-| 32 | ChatGPT for Beginners | Udemy |
-| 33 | Mastering ChatGPT | Great Learning |
-| 34 | Natural Language Processing with Classification and Vector Spaces | Coursera |
-| 35 | Deep Learning Specialization | Coursera |
-| 36 | Mathematics for Machine Learning | Coursera |
-| 37 | Introduction to Data Science in Python | Coursera |
-| 38 | Applied Machine Learning in Python | Coursera |
-| 39 | Data Science Tools | IBM |
-| 40 | Exploratory Data Analysis with Python | Coursera |
-| 41 | Capstone: Retrieving, Processing, and Visualizing Data | Coursera |
-| 42 | Programming for Everybody (Python) | Coursera |
-| 43 | Using Databases with Python | Coursera |
-| 44 | AI Applications in Marketing and Advertising | Great Learning |
-| 45 | The Complete ChatGPT Guide | Udemy |
-| 46 | Basics of Cloud Security | IBM SkillsBuild |
-| 47 | Introduction to Blockchain | Simplilearn |
-| 48 | Blockchain Essentials | IBM |
-| 49 | Introduction to DevOps | Simplilearn |
-| 50 | DevOps on AWS | Amazon Web Services |
-| 51 | Software Development Lifecycle | IBM SkillsBuild |
-| 52 | Agile with Atlassian Jira | Coursera |
-| 53 | Project Management Basics | Coursera |
-| 54 | Professional Certificate in Soft Skills | TCS iON |
-| 55 | Time Management | IBM SkillsBuild |
-| 56 | Communication Skills for Business | HP Life |
-| 57 | Presentation Skills | IBM SkillsBuild |
-| 58 | Leadership Skills | Great Learning |
-| 59 | Critical Thinking and Problem Solving | TCS iON |
-| 60 | Business Communication | UpGrad |
-| 61 | Business Strategy | IBM |
-| 62 | Marketing Analytics | Coursera |
-| 63 | Design Thinking for Innovation | Coursera |
-| 64 | Digital Marketing | Google Digital Garage |
-| 65 | Fundamentals of Digital Marketing | Google |
-| 66 | Advanced Google Analytics | Google |
-| 67 | SEO Fundamentals | SEMrush Academy |
-| 68 | Email Marketing | HubSpot Academy |
-| 69 | Content Marketing | HubSpot Academy |
-| 70 | Google Ads Certification | Google |
-| 71 | Meta Marketing Analytics | Coursera |
-| 72 | YouTube Content Creation | Great Learning |
-| 73 | Social Media Marketing | Coursera |
-| 74 | Introduction to Financial Accounting | Coursera |
-| 75 | Introduction to Corporate Finance | Coursera |
-| 76 | Financial Markets | Yale (Coursera) |
-| 77 | Introduction to Investment Management | Coursera |
-| 78 | Excel Skills for Business | Coursera |
-| 79 | Business Intelligence and Competitive Analysis | Coursera |
-| 80 | Introduction to Risk Management | edX |
-| 81 | Cybersecurity for Business | Coursera |
-| 82 | Ethical Hacking Essentials | EC-Council |
-| 83 | Introduction to Penetration Testing | Cybrary |
-| 84 | SQL Injection & Web App Security | Coursera |
-| 85 | Cloud Security Fundamentals | IBM SkillsBuild |
-| 86 | Cloud SOC Analyst | Google Cloud Skills Boost |
-| 87 | Google Chronicle SIEM Training | Google Cloud |
-| 88 | Digital Forensics | IBM SkillsBuild |
-| 89 | Incident Response and Handling | Coursera |
-| 90 | Security Operations Center Fundamentals | Cybrary |
-| 91 | Endpoint Security | Fortinet |
-| 92 | Identity and Access Management | IBM |
-| 93 | Data Privacy and Protection | Coursera |
-| 94 | AI in Cybersecurity | Great Learning |
-| 95 | Security Awareness Training | Cybrary |
-| 96 | Introduction to Quantum Computing | IBM Quantum |
-| 97 | Basics of Internet of Things (IoT) | NPTEL |
-| 98 | IoT and Smart Cities | edX |
-| 99 | Big Data Fundamentals | IBM |
-| 100 | Introduction to Apache Hadoop | Udemy |
+## 📈 **Business & Finance**
+- **LinkedIn Learning** – Business Analytics with Excel *(24 Mar 2025)*
+- **LinkedIn Learning** – What Is Business Analysis? *(29 Apr 2025)*
+- **LinkedIn Learning** – Copilot in PowerPoint: From Prompt to Presentation *(29 Apr 2025)*
+- **LinkedIn Learning** – Agile Requirements Foundations *(01 May 2025)*
+- **LinkedIn Learning** – Learning Microsoft 365 Copilot and Business Chat *(27 Apr 2025)*
+- **LinkedIn Learning** – Excel for Beginners *(10 Jun 2025)*
+- **LinkedIn Learning** – Time Management *(10 Jun 2025)*
+- **LinkedIn Learning** – High Impact Presentations *(11 Jun 2025)*
+- **Future Learn** – Issues in the Global Business Environment *(02 Jun 2025)*
+- **Future Learn** – Digital Skills: Artificial Intelligence (Accenture) *(06 Jun 2025)*
+- **Future Learn** – How to Be a Successful Business Analyst *(08 Jun 2025)*
+- **HackerRank** – SQL (Basic) *(01 May 2025)*
+- **Udemy** – Professional Certificate in Financial Analysis and Modeling *(31 May 2025)*
+- **Udemy** – Certificate of Leadership Excellence in Business Management *(31 May 2025)*
+- **Udemy** – Diploma: Human Resources, Compensation & Benefits Management *(09 Jun 2025)*
 
----
+## 🏆 **Why These Certifications Matter**
+These certifications demonstrate my **technical expertise, problem-solving skills, and leadership abilities** in **AI, Data Science, Cloud Computing, and Business**.
+
 
 📌 **Complete list of 375+ certifications** available via my [Google Drive Certificate Repository](#) *(public access link to be attached by you)*.
 
