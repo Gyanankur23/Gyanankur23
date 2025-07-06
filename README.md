@@ -174,11 +174,9 @@ Here are my **industry-recognized certifications** in **AI, Data Science, Cloud 
 - **Udemy** – Professional Certificate in Financial Analysis and Modeling *(31 May 2025)*
 - **Udemy** – Certificate of Leadership Excellence in Business Management *(31 May 2025)*
 
-## 🏆 **Why These Certifications Matter**
-These certifications demonstrate my **technical expertise, problem-solving skills, and leadership abilities** in **AI, Data Science, Cloud Computing, and Business**.
 
 
-📌 **Complete list of 375+ certifications** available via my [Google Drive Certificate Repository](#) *(public access link to be attached by you)*.
+📌 **Complete list of 375+ certifications** available via my [Google Drive Certificate Repository](#) *()*.
 
 ---
 
