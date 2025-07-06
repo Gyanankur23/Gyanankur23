@@ -69,7 +69,7 @@ Welcome to my GitHub profile! I'm an enthusiastic learner and multi-domain explo
 
 ### Zagdu Singh Charitable Trust Thakur Shyamnarayan Degree College, Kandivali, Mumbai 
 
--Bachelor (Honours) in Data Science *(2024-2028)*
+-Bachelor (Honors) in Data Science *(2024-2028)*
 
 SGPA :- 9.55
 
