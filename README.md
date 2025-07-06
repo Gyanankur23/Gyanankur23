@@ -65,38 +65,91 @@ Welcome to my GitHub profile! I'm an enthusiastic learner and multi-domain explo
 | Inamigos Foundation | Virtual Volunteering Intern | Sep – Oct 2024 | Remote |
 
 
-# 🎓 **Certifications Portfolio**  
-This repository showcases my **industry-recognized certifications** in **AI, Data Science, Cloud Computing, Business, and Finance**.
+# Education
 
-## 🚀 **Technology & Data Science**
+## Zagdu Singh Charitable Trust Thakur Shyamnarayan Degree College, Kandivali, Mumbai 
+
+-Bachelor (Honours) in Data Science *(2024-2028)*
+
+SGPA :- 9.55
+
+## Institute of Management, Technology and Finance(MTF), Portugal 
+
+– Diploma: Human Resources, Compensation & Benefits Management *(09 Jun 2025)*
+(Remote)
+
+## Shree L.R. Tiwari College of Arts, Science and Commerce, Mumbai
+
+-12th, 6.5 CGPA
+
+## N.L. Dalmia High School Educational Society 
+
+-10th, 96.4%
+
+# 🎓 Certifications
+
+Here are my **industry-recognized certifications** in **AI, Data Science, Cloud Computing, Business, and Finance**.
+
+## 🚀 Technology & Data Science
+
 - **Google Cloud** – Introduction to Generative AI *(Completion Badge)*
-- **IBM SkillsBuild** – Working in a Digital World: Professional Skills *(Completion Badge)*
-- **Simplilearn SkillUP** – Introduction to Image Generation *(09 Oct 2024)*
+
+- **IBM SkillsBuild** – Working in a Digital World: Professional Skills
+*(Completion Badge)*
+
+- **Simplilearn SkillUP** – Introduction to Image
+ Generation *(09 Oct 2024)*
+
 - **Mastercard Forage** – Advisors & Consulting Services Job Simulation *(01 Feb 2025)*
+
 - **British Airways Forage** – Data Science Job Simulation *(01 Feb 2025)*
+
 - **TATA Forage** – Data Visualization: Empowering Business Insights *(04 Jan 2025)*
+
 - **LinkedIn Learning** – Generative AI for Business Leaders *(02 Apr 2025)*
+
 - **Google Cloud** – Use APIs to Work with Cloud Storage *(Skill Badge)*
+
 - **Simplilearn SkillUP** – PostgreSQL: Become an SQL Developer *(11 Oct 2024)*
+
 - **Simplilearn SkillUP** – Encoder-Decoder Architecture *(12 Oct 2024)*
+
 - **Simplilearn SkillUP** – Introduction to Data Analytics *(04 Apr 2025)*
-- **Simplilearn SkillUP** – Statistics for Data Science *(10 Oct 2024)*
+
+- **Simplilearn SkillUP** – Statistics for Data Science *(10 Oct 2024)
+
 - **Saint Louis University Excelerate** – Digital Wellness & Mindful Tech Use *(28 Mar 2025)*
+
 - **IBM SkillsBuild** – Solving Problems with Critical and Creative Thinking *(21 Feb 2025)*
-- **IBM SkillsBuild** – Collaborate Effectively *(21 Feb 2025)*
+
+- **IBM SkillsBuild** – Collaborate Effectively *(21 Feb 2025)
+
 - **IBM SkillsBuild** – Deliver Quality Work with Agility *(21 Feb 2025)*
+
 - **IBM SkillsBuild** – Data Science Landscape *(30 Dec 2024)*
+
 - **IBM SkillsBuild** – Present with Purpose *(30 Dec 2024)*
+
 - **IBM SkillsBuild** – Introduction to Tableau Desktop *(30 Dec 2024)*
+
 - **IBM SkillsBuild** – Introduction to Artificial Intelligence *(30 Dec 2024)*
+
 - **Google Cloud** – Get Started with Google Workspace Tools *(Skill Badge)*
+
 - **Google Cloud** – Preparing for your Professional Data Engineer Journey *(Completion Badge)*
+
 - **Google Cloud** – Analyze BigQuery Data in Connected Sheets *(Skill Badge)*
+
 - **Google Cloud** – Build Real World AI Applications with Gemini and Imagen *(Skill Badge)*
+
 - **Google Cloud** – Deploy Kubernetes Applications on Google Cloud *(Skill Badge)*
+
 - **IBM SkillsBuild** – Getting Started with Data *(30 Dec 2024)*
+
 - **IBM SkillsBuild** – Data Fundamentals *(20 Apr 2025)*
+
 - **IBM SkillsBuild** – Artificial Intelligence Fundamentals *(09 Jun 2025)*
+
 - **IBM SkillsBuild** – Data Fundamentals with Capstone *(08 Jun 2025)*
 - **IBM Cognitive Class** – Python 101 for Data Science *(14 Apr 2025)*
 - **Google Cloud** – Engineer Data for Predictive Modeling with BigQuery ML *(Skill Badge)*
@@ -120,7 +173,6 @@ This repository showcases my **industry-recognized certifications** in **AI, Dat
 - **HackerRank** – SQL (Basic) *(01 May 2025)*
 - **Udemy** – Professional Certificate in Financial Analysis and Modeling *(31 May 2025)*
 - **Udemy** – Certificate of Leadership Excellence in Business Management *(31 May 2025)*
-- **Udemy** – Diploma: Human Resources, Compensation & Benefits Management *(09 Jun 2025)*
 
 ## 🏆 **Why These Certifications Matter**
 These certifications demonstrate my **technical expertise, problem-solving skills, and leadership abilities** in **AI, Data Science, Cloud Computing, and Business**.
