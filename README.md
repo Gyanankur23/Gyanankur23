@@ -67,22 +67,22 @@ Welcome to my GitHub profile! I'm an enthusiastic learner and multi-domain explo
 
 # Education
 
-## Zagdu Singh Charitable Trust Thakur Shyamnarayan Degree College, Kandivali, Mumbai 
+### Zagdu Singh Charitable Trust Thakur Shyamnarayan Degree College, Kandivali, Mumbai 
 
 -Bachelor (Honours) in Data Science *(2024-2028)*
 
 SGPA :- 9.55
 
-## Institute of Management, Technology and Finance(MTF), Portugal 
+### Institute of Management, Technology and Finance(MTF), Portugal 
 
 – Diploma: Human Resources, Compensation & Benefits Management *(09 Jun 2025)*
 (Remote)
 
-## Shree L.R. Tiwari College of Arts, Science and Commerce, Mumbai
+### Shree L.R. Tiwari College of Arts, Science and Commerce, Mumbai
 
 -12th, 6.5 CGPA
 
-## N.L. Dalmia High School Educational Society 
+### N.L. Dalmia High School Educational Society 
 
 -10th, 96.4%
 
