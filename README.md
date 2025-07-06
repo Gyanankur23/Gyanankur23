@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gyanankur Baruah
 
-Welcome to my GitHub profile! I'm an enthusiastic learner and multi-domain explorer with a strong foundation in data analytics, cloud computing, cybersecurity, AI, and more. My journey has been filled with rigorous learning through various platforms, and I’ve earned **375+ certifications** in just one year, from **June 2024 to June 2025**.
+Welcome to my GitHub profile! I'm an enthusiastic learner and multi-domain explorer with a strong foundation in data analytics, cloud computing, Data Science, ML, AI, and more. My journey has been filled with rigorous learning and collecting certifications through various platforms.
 
 ## 🛠️ Languages and Tools
 
@@ -51,7 +51,8 @@ Welcome to my GitHub profile! I'm an enthusiastic learner and multi-domain explo
 
 | Organization | Role | Duration | Mode |
 |--------------|------|----------|------|
-| Future Interns | Data Analyst Intern | May 2025 – Present | Remote |
+| SkillCraft Technology | Data Science and Analytics Intern | June 2025- July 2025 | Remote |
+| Future Interns | Data Analyst Intern | May 2025 – June 2025 | Remote |
 | Excelerate | Project Management Intern | Apr – May 2025 | Remote |
 | Excelerate | Business Development Intern | Apr – May 2025 | Remote |
 | SkillCraft Technology | Data Science Intern | Mar – Apr 2025 | Remote |
