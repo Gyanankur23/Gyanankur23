@@ -43,6 +43,9 @@ Welcome to my GitHub profile! I'm an enthusiastic learner and multi-domain explo
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+![Gyanankur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gyanankur23&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyanankur23&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gyanankur23&theme=radical)
 
 # 🎓 **Certifications Portfolio**  
 This repository showcases my **industry-recognized certifications** in **AI, Data Science, Cloud Computing, Business, and Finance**.
