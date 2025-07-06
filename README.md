@@ -47,13 +47,23 @@ Welcome to my GitHub profile! I'm an enthusiastic learner and multi-domain explo
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyanankur23&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gyanankur23&theme=radical)
 
-<!-- GitHub Contribution Calendar -->
-<link rel="stylesheet" href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css" />
-<div class="calendar">Loading GitHub activity...</div>
-<script src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"></script>
-<script>
-  GitHubCalendar(".calendar", "Gyanankur23", { responsive: true });
-</script>
+## 💼 Internships & Industry Experience
+
+| Organization | Role | Duration | Mode |
+|--------------|------|----------|------|
+| Future Interns | Data Analyst Intern | May 2025 – Present | Remote |
+| Excelerate | Project Management Intern | Apr – May 2025 | Remote |
+| Excelerate | Business Development Intern | Apr – May 2025 | Remote |
+| SkillCraft Technology | Data Science Intern | Mar – Apr 2025 | Remote |
+| AlfidoTech | Data Analyst Intern | Apr – May 2025 | Remote |
+| Prerna Edupro | Web Developer Intern | Jan – Mar 2025 | On-Site |
+| Quantum Learnings | Data Science Intern | Dec 2024 – Jan 2025 | Remote |
+| VaultofCodes | Python & AI Intern | Nov – Dec 2024 | Remote |
+| Millenium Fashions | Content Marketing Intern | Jan – Feb 2025 | Remote |
+| Marpu Foundation | SMM Intern | Aug – Sep 2024 | Remote |
+| Inamigos Foundation | SMM Intern | Sep – Oct 2024 | Remote |
+| Google Arcade Facilitator Program | Trainee | Apr 2025 – Ongoing | Remote |
+
 # 🎓 **Certifications Portfolio**  
 This repository showcases my **industry-recognized certifications** in **AI, Data Science, Cloud Computing, Business, and Finance**.
 
@@ -172,22 +182,7 @@ These certifications demonstrate my **technical expertise, problem-solving skill
 
 ---
 
-## 💼 Internships & Industry Experience
 
-| Organization | Role | Duration | Mode |
-|--------------|------|----------|------|
-| Future Interns | Data Analyst Intern | May 2025 – Present | Remote |
-| Excelerate | Project Management Intern | Apr – May 2025 | Remote |
-| Excelerate | Business Development Intern | Apr – May 2025 | Remote |
-| SkillCraft Technology | Data Science Intern | Mar – Apr 2025 | Remote |
-| AlfidoTech | Data Analyst Intern | Apr – May 2025 | Remote |
-| Prerna Edupro | Web Developer Intern | Jan – Mar 2025 | On-Site |
-| Quantum Learnings | Data Science Intern | Dec 2024 – Jan 2025 | Remote |
-| VaultofCodes | Python & AI Intern | Nov – Dec 2024 | Remote |
-| Millenium Fashions | Content Marketing Intern | Jan – Feb 2025 | Remote |
-| Marpu Foundation | SMM Intern | Aug – Sep 2024 | Remote |
-| Inamigos Foundation | SMM Intern | Sep – Oct 2024 | Remote |
-| Google Arcade Facilitator Program | Trainee | Apr 2025 – Ongoing | Remote |
 
 ---
 
