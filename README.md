@@ -47,6 +47,13 @@ Welcome to my GitHub profile! I'm an enthusiastic learner and multi-domain explo
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyanankur23&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gyanankur23&theme=radical)
 
+<!-- GitHub Contribution Calendar -->
+<link rel="stylesheet" href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css" />
+<div class="calendar">Loading GitHub activity...</div>
+<script src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"></script>
+<script>
+  GitHubCalendar(".calendar", "Gyanankur23", { responsive: true });
+</script>
 # 🎓 **Certifications Portfolio**  
 This repository showcases my **industry-recognized certifications** in **AI, Data Science, Cloud Computing, Business, and Finance**.
 
