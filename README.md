@@ -51,6 +51,9 @@ Welcome to my GitHub profile! I'm an enthusiastic learner and multi-domain explo
 
 | Organization | Role | Duration | Mode |
 |--------------|------|----------|------|
+| Excelerate | AI Powered Data Analyst Intern | October – November 2025 | Remote |
+| Basti ki Pathshala | Fundraising Intern | October – November 2025 | Remote |
+| Excelerate | Data Science Intern | Aug- Sep 2025 | Remote |
 | SkillCraft Technology | Data Science and Analytics Intern | June 2025- July 2025 | Remote |
 | Future Interns | Data Analyst Intern | May 2025 – June 2025 | Remote |
 | Google Arcade Facilitator Program | Trainee | Apr 2025 – June 2025 | Remote |
@@ -71,7 +74,8 @@ Welcome to my GitHub profile! I'm an enthusiastic learner and multi-domain explo
 
 -Bachelor of Science(Honors) in Data Science *(2024-2028)*
 
-SGPA :- 9.55
+SGPA :- 9.55 (Sem 1)
+SGPA :- 9.18 (Sem 2)
 
 ### Institute of Management, Technology and Finance(MTF), Portugal 
 
