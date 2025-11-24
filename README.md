@@ -55,19 +55,20 @@ Welcome to my GitHub profile! I'm an enthusiastic learner and multi-domain explo
 | Basti ki Pathshala | Fundraising Intern | October – November 2025 | Remote |
 | Excelerate | Data Science Intern | Aug- Sep 2025 | Remote |
 | WeDidIT | Book Marketing Intern | Aug- Sep 2025 | Remote |
-| Naviotech | Data Science Intern | Aug- Sep 2025 | Remote |
-| Skill Academy | Campus Ambassador Intern | Aug- Sep 2025 | Remote |
+| Naviotech | Campus Ambassador Intern | Aug- Sep 2025 | Remote |
+| Skill Academy |  Data Science Intern | Aug- Sep 2025 | Remote |
 | Muskurahat Foundation | Fundraising Intern | Aug- Sep 2025 | Remote |
 | Edunet Foundation | AIML Intern | June- July 2025 2025 | Remote |
 | SkillCraft Technology | Data Science and Analytics Intern | June 2025- July 2025 | Remote |
 | Future Interns | Data Analyst Intern | May 2025 – June 2025 | Remote |
+| VaultofCodes | Python Programming Intern | May- Jun 2024 | Remote |
 | Google Arcade Facilitator Program | Trainee | Apr 2025 – June 2025 | Remote |
 | Excelerate | Project Management Intern | Apr – May 2025 | Remote |
 | Excelerate | Business Development Intern | Apr – May 2025 | Remote |
 | AlfidoTech | Data Analyst Intern | Apr – May 2025 | Remote |
 | Prerna Edupro | Web Developer Intern | Jan – Mar 2025 | On-Site |
 | Quantum Learnings | Data Science Intern | Dec 2024 – Jan 2025 | Remote |
-| VaultofCodes | Python & AI Intern | Nov – Dec 2024 | Remote |
+| VaultofCodes | AI and Prompt Engineering Intern | Nov – Dec 2024 | Remote |
 | Millenium Fashions | Content Marketing Intern | Jan – Feb 2025 | Remote |
 | Marpu Foundation | Social Media Marketing Intern | Aug – Sep 2024 | Remote |
 | Inamigos Foundation | Virtual Volunteering Intern | Sep – Oct 2024 | Remote |
