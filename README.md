@@ -300,3 +300,215 @@ Here are my **industry-recognized certifications** in **AI, Data Science, Cloud 
 ---
 
 _This README is still evolving. Stay tuned for Part 3 – volunteering, open source, and GitHub stats!_
+
+
+# 👋 Hi, I’m Gyanankur Baruah
+
+📍 Mumbai, India  
+🎓 B.Sc. (Hons) Data Science (2024–2028)  
+🧠 Data · AI · Dashboards · Cloud · Web · Research · Community · Content  
+
+I’m a **high-volume builder, learner, experimenter, and documenter**.
+
+I don’t work in a single lane.  
+I explore **many lanes in parallel** — data analytics, AI, dashboards, GenAI tools, web apps, cloud labs, business simulations, community leadership, content creation, research, and social impact.
+
+This GitHub is **not** a polished senior engineer portfolio.  
+It’s a **living proof-of-work archive** showing scale, consistency, and obsessive learning.
+
+---
+
+## 🧠 Who I Am
+
+I’m a data science and AI enthusiast focused on transforming complex data into **actionable insights and scalable solutions**.
+
+My work spans:
+- Power BI, Tableau, SQL
+- Python (NumPy, Pandas, PySpark)
+- Generative AI & agentic workflows
+- Frontend development (React, JavaScript, HTML/CSS)
+- Data storytelling & visualization research
+
+So far this has resulted in:
+- **130+ projects**
+- **120+ public GitHub repositories**
+- **22+ internships & job simulations**
+- **400–500+ certifications**
+- Hackathons, research conventions, and community leadership
+
+---
+
+## 📊 Personal Brand Scale
+
+- 📦 **120+ Public GitHub Repositories**
+- 🧪 **130+ Projects**
+- 🎓 **400–500+ Certifications** (278 visible on LinkedIn)
+- 🧠 **22+ Internships & Simulations**
+- 🌐 **1.5K+ LinkedIn Followers**
+- 📈 **200K+ LinkedIn Impressions**
+- 🧑‍💻 **Top 5% – Google Cloud Arcade**
+- 🏆 **Devpost Hackathon Contributor**
+- 🤝 **E-Cell IIT Bombay | DataFam Mumbai | MetaMindset Labs**
+
+---
+
+## 🛠️ Languages, Tools & Tech Stack (Full Badge Dump)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E4053?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge)
+![Dash](https://img.shields.io/badge/Dash-1E1E1E?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge)
+
+---
+
+## 📈 GitHub Live Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gyanankur23&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyanankur23&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gyanankur23&theme=radical)
+
+---
+
+## 💻 Repositories (120+ | Diversified)
+
+### 📊 Dashboards & BI
+- Road Accident Analysis Dashboards  
+- Sales, Hospital, HR, Crime & Finance Dashboards  
+- Onyx / ZoomCharts / FP20 challenges  
+- SQL + Excel + Power BI analytics projects  
+
+### 🧠 Data Science & ML
+- EDA notebooks  
+- Classification & predictive models  
+- Sentiment analysis projects  
+- Titanic dataset analytics series  
+- Customer & retail analytics simulations  
+
+### 🤖 AI & GenAI
+- StudyBuddy AI (Google Hackathon)  
+- Prompt engineering experiments  
+- AI-powered analytics workflows  
+- Agentic AI strategy simulations  
+
+### 🌐 Web & Apps
+- Quiz apps, calculator apps, weather apps  
+- Real estate & recipe-sharing platforms  
+- YouTube frontend clones  
+- Git visualization & utilities  
+
+### 🧪 Practice & Utilities
+- Python mini tools  
+- SQL practice repos  
+- API experiments  
+- Git/GitHub learning repositories  
+
+---
+
+## 🏢 Internships, Roles & Simulations (Full Volume)
+
+Includes experience with:
+- McKinsey & Company (Forward Program)
+- Quantium
+- Deloitte
+- Tata Group
+- Goldman Sachs
+- PwC Switzerland
+- British Airways
+- Accenture
+- Mastercard
+- Excelerate (multiple roles)
+- Infosys Springboard
+- Edunet Foundation
+- SkillCraft Technology
+- VaultofCodes
+- Quantum Learnings
+- Prerna Edupro
+- Naviotech
+- Multiple NGOs & social impact orgs
+
+(Every role is documented publicly on LinkedIn.)
+
+---
+
+## 🧪 Hackathons, Challenges & Research
+
+- Google AI for Agents Hackathon
+- Devpost Hackathons (monthly participation)
+- Onyx Data Challenges
+- ZoomCharts FP20 Analytics Challenge
+- IIT Bombay E-Cell programs
+- University-level Research Convention (Aavishkar 2025)
+- Ongoing **Data Storytelling Research**
+
+---
+
+## 🎓 Certifications (High-Volume by Design)
+
+Issued by:
+- Google Cloud
+- IBM SkillsBuild / Cognitive Class
+- LinkedIn Learning
+- Forage (Tata, PwC, Deloitte, Accenture, Goldman Sachs, Mastercard)
+- Simplilearn
+- Udemy
+- FutureLearn
+- HackerRank
+- Infosys Springboard
+
+📂 Full certificate repository: *(attach Google Drive link)*
+
+---
+
+## 🌍 Community, Content & Leadership
+
+- **Founder – MetaMindset Labs**
+- **Community Admin – DataFam Mumbai**
+- **LinkedIn Content Creator** (1–2 posts daily)
+- **E-Cell IIT Bombay participant**
+- **Open Source Contributor (OSCI / OS Connect India)**
+
+---
+
+## 🎯 Why This README Exists
+
+This README exists to show:
+- Scale
+- Consistency
+- Exploration
+- Documentation
+- Relentless learning
+
+Not polish.  
+Not focus.  
+Not seniority.
+
+---
+
+## 🔗 Connect
+
+- **LinkedIn:** https://www.linkedin.com/in/gyanankur-baruah-797205338  
+- **GitHub:** https://github.com/Gyanankur23  
+- **Email:** gyanankurcricket20@gmail.com  
+
+---
+
+_This repository is a living archive. Expect growth, iteration, and chaos._
