@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Gyanankur Baruah
 
+![Contributions Status](contributions.png)
+
+
 📍 Mumbai, India  
 🎓 B.Sc. Data Science (2024–2027)  
 🧠 Data · AI · Dashboards · Cloud · Web · Research · Community · Content  
