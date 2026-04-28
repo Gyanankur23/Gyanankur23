@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gyanankur Baruah
 
-![Contributions Status](contributions.png)
+![Contributions Status](contributions.png) 
 
 
 📍 Mumbai, India  
