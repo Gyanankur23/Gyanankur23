@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Gyanankur Baruah
 
 ![Contributions Status](contributions%20(3).png) 
-
+<img src="https://github.com/Gyanankur23/Gyanankur23/blob/output/github-contribution-grid-snake.svg" />
 
 📍 Mumbai, India  
 🎓 B.Sc. Data Science (2024–2027)  
