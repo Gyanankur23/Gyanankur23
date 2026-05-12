@@ -1,9 +1,14 @@
 # 👋 Hi, I'm Gyanankur Baruah
 
 ![Contributions Status](contributions%20(3).png) 
-<img src="https://github.com/Gyanankur23/Gyanankur23/blob/output/github-contribution-grid-snake.svg" />
+
+---
+
+## 📊 GitHub Live Stats
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Gyanankur23&theme=github-dark-blue)](https://git.io/streak-stats)
+
 📍 Mumbai, India  
 🎓 B.Sc. Data Science (2024–2027)  
 🧠 Data · AI · Dashboards · Cloud · Web · Research · Community · Content  
@@ -144,15 +149,6 @@ So far this has resulted in:
 | **Inamigos Foundation** | Virtual Volunteering Intern | Sep – Oct 2024 | Remote |
 | **Pawzz** | Fundraising Intern | Jul – Aug 2023 | Remote |
 
----
-
-## 📊 GitHub Live Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gyanankur23&theme=radical&timestamp=123456)
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gyanankur23&show_icons=true&theme=radical" alt="GitHub Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gyanankur23&layout=compact&theme=radical" alt="Top Languages"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gyanankur23&theme=radical" alt="GitHub Streak"/>
-</p>
 
 ---
 
