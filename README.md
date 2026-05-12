@@ -3,6 +3,7 @@
 ![Contributions Status](contributions%20(3).png) 
 <img src="https://github.com/Gyanankur23/Gyanankur23/blob/output/github-contribution-grid-snake.svg" />
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Gyanankur23&theme=github-dark-blue)](https://git.io/streak-stats)
 📍 Mumbai, India  
 🎓 B.Sc. Data Science (2024–2027)  
 🧠 Data · AI · Dashboards · Cloud · Web · Research · Community · Content  
