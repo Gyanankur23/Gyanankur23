@@ -8,6 +8,7 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Gyanankur23&theme=github-dark-blue)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Gyanankur23&theme=highcontrast)](https://git.io/streak-stats)
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Gyanankur23?cardType=level-alternate&theme=tokyonight&fontFamily=42dot%20Sans&preferLogin=false&Points.Commits=100&Points.ContributedToOwnRepositories=10&Points.Followers=14&Points.CommitsToMyRepositories=250)](https://git.io/awesome-stats-card)
 📍 Mumbai, India  
 🎓 B.Sc. Data Science (2024–2027)  
