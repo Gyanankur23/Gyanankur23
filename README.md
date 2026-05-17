@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gyanankur Baruah
 
-![Contributions Status](contributions%20(2).png) 
+![Contributions Status](contributions%20(2).png)
 
 ---
 
