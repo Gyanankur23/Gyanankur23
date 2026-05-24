@@ -10,10 +10,19 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://share.streamlit.io/user/gyanankur23">
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit Share" />
+  </a>
+  <a href="https://portfolio-mp3sog7ed-gyanankur23s-projects.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
+  </a>
+</p>
+
 ---
 
 ## 📍 Mumbai, India | 🎓 B.Sc. (Hons) Data Science (2024–2028)
-**🧠 Data · AI · Dashboards · Cloud · Web · Research · Community · Content**
+*🧠 Data · AI · Dashboards · Cloud · Web · Research · Community · Content*
 
 I am a **high-volume builder, learner, experimenter, and documenter**. I don't work in a single lane; I explore **many lanes in parallel**—data analytics, AI architectures, interactive business dashboards, GenAI tools, web apps, cloud labs, business simulations, community leadership, content creation, research, and social impact.  
 
@@ -45,6 +54,7 @@ This GitHub is **not a polished senior engineer portfolio**. It’s an aggressiv
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 * **Libraries:** Matplotlib · Seaborn · Plotly · Dash Architecture · ggplot Frameworks
 
 ### 💻 Web Development & Architectures
