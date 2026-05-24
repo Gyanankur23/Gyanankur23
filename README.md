@@ -41,10 +41,10 @@ My work bridges raw data and actionable intelligence through documentation, anal
 
 ## 📊 Core Metrics & Impact
 * 🚀 **140+ Shipped Projects** across automation architectures, predictive engines, and analytics.
-* 📦 **150+ GitHub Repositories** actively logged, tracked, and maintained.
+* 📦 **164 GitHub Repositories** actively logged, tracked, and maintained.
 * 💼 **31 Professional Roles & Internships** completed across enterprise and technical fields.
 * 📜 **500+ Verifiable Technical Credentials** across cloud, intelligence, and project tracking.
-* 👥 **2,500+ Active Members Led** through specialized developer networks.
+* 👥 **2,800+ Active Members Led** through specialized developer networks.
 * 🎮 **Top 5% Google Arcade** contributor | E-Cell IIT Bombay Participant | OSCI Devpost Contributor.
 
 ---
@@ -73,21 +73,9 @@ My work bridges raw data and actionable intelligence through documentation, anal
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&pureColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-* **Core Web Utilities:** Vite · PWA Configuration · JSON Structures · JSX Architecture
-
-### ☁️ Cloud, DevOps & Environment Tooling
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-* **Storage & Mining Engines:** Jupyter · Google Colab · Weka · XAMPP · MongoDB · GitHub Actions
+* **Core Web Utilities:** Vite · PWA Configuration · JSON Structures · JSX Architecture · Lua (Gateway Scripting)
 
 ---
 
@@ -135,41 +123,43 @@ My work bridges raw data and actionable intelligence through documentation, anal
 
 ---
 
-## 📂 Portfolio Showcase Project Links
+## 📂 Portfolio Showcase & Global Repositories Index
 
-### 🛠️ Featured Productions
-* 🌐 **[MetaMindset Labs Platform](https://github.com/Gyanankur23/portfolio)**: Full-stack Next.js 14 production system backed by Supabase architectures and automated Razorpay payments.
-* 🍄 **[Mushroom Edibility Predictor App](https://github.com/Gyanankur23/Mushroom-Edibility-Predictor-App)**: Classification portal rendering dynamic Confusion Matrices, ROC curves, and vector distributions.
-* 🤖 **[GPB Aurion – AI Chatbot](https://github.com/Gyanankur23/GPB-AURION-)**: Intelligent LangChain agent deploying custom system configurations and context memory tracking.
-* 📦 **[AuroraViz PyPI Library](https://github.com/Gyanankur23/AuroraViz)**: Production-ready data visualization wrapper published on PyPI featuring pre-compiled light/dark design models.
-* 📊 **[FP20 Support Intelligence Dashboard](https://github.com/Gyanankur23/FP20-Analytics-Challenge-27)**: High-tier business intelligence engine mapping corporate customer service SLA constraints.
+### 🏆 National Innovation & Hackathon Implementations (SIH 2025)
+* 🛕 **[SIH25165 Temple Pilgrimage Crowd Management](https://github.com/Gyanankur23/SIH25165-Temple-Pilgrimage-Crowd-Management)**: Real-time computer vision crowd-density modeling and predictive anomaly safety pipeline.
+* 📈 **[India Real-Time Retail & Hospitality Demand Pulse](https://github.com/Gyanankur23/India-Real-Time-Retail-and-Hospitality-Demand-Pulse---SIH-2025-)**: Smart India Hackathon platform calculating real-time spatiotemporal market consumption adjustments.
+* 💰 **[ClariFunds-Lite](https://github.com/Gyanankur23/ClariFunds-Lite)**: Resource deployment budget balancing software optimized for public sector operational tracking.
 
-### 💻 Shipped Applications & Submissions
-* 📋 **[ProjectNest Workspace Tool](https://github.com/Gyanankur23/ProjectNest)**: Interactive collaboration suite written entirely in TypeScript.
-* 🎥 **[Crafertube – YouTube Clone](https://github.com/Gyanankur23/Crafertube---Youtube-Clone)**: Frontend cloning system testing media tracking logic and state changes.
-* 🗺️ **[GPB Nexus Roadmapper](https://github.com/Gyanankur23/GPB-Nexus-)**: Developer certification path app compiling testing modules and secure metrics.
-* 🌲 **[MX Git Branch Tree Builder](https://github.com/Gyanankur23/MX-Git-Branch-Tree)**: Browser layout tool utilizing real-time GitHub API calls to visualize repo paths.
-* 📈 **[FP20 Banking Intelligence Dashboard](https://github.com/Gyanankur23/FP20-Analytics-Challenge-27)**: Strategic multi-branch monitoring layout.
-* 🎯 **[Onyx Data Satisfaction & Loyalty Dashboard](https://github.com/Gyanankur23/Onyx-Data-Challenge-July-2025-Customer-Satisfaction-and-Loyalty-Dashboard)**: Segmenting regional demographic parameters using advanced DAX modeling.
-* 🧠 **[Decision Tree Classifier Engine](https://github.com/Gyanankur23/Decision-Tree-Classifier-)**: Financial analytical model hitting a 78% validation balance.
-* 🚢 **[Titanic Survival Analytics Hub](https://github.com/Gyanankur23/Titanic-Survival-Prediction)**: Full interactive exploratory layout built on top of Plotly Dash frames.
-* 🚗 **[Road Accident Pattern Analysis](https://github.com/Gyanankur23/Road-Accident-Analysis-Dashboard)**: Processing over 300K+ relational accident indices via Power BI and SQL.
-* 💬 **[Customer E-Commerce Sentiment Pipeline](https://github.com/Gyanankur23/Ecommerce-sentiment-analysis-Project-)**: Automated review mining utility utilizing TextBlob text processors.
-* 🏪 **[Retail Analytics Dashboard Instance](https://github.com/Gyanankur23/Retail-Analytics-Dashboard)**: Local browser data utility operating on XAMPP system metrics.
-* 🎮 **[GPB Tic Tac Toe PWA](https://github.com/Gyanankur23/GPB-Tic-Tac-Toe)**: Fully responsive application with animated timeline states and multiplayer components.
-* 📚 **[StudyBuddy AI Classifier](https://github.com/Gyanankur23/Study-buddy-AI)**: Concept matching parser using nested JSON configurations of technical terms.
-* 🪪 **[ESQI – UIDIA Aadhaar Data Hackathon](https://github.com/Gyanankur23/ESQI-enrollment-index-UIDIA-Data-Hackathon)**: Composite index score tool predicting system strain metrics.
-* 📷 **[Face Detection Attendance System](https://github.com/Gyanankur23/Face-Detection-Attendance-System)**: Real-time OpenCV computer vision tracking layout.
-* 🌤️ **[Weather Prediction Streamlit Module](https://github.com/Gyanankur23/Weather-Prediction-App)**: Machine learning model providing climate insight parameters on custom viewports.
-* 📝 **[Image Captioner AI Core](https://github.com/Gyanankur23/Image-Captioner-AI)**: Neural vision pipeline outputting structured descriptive files from image arrays.
-* 🎬 **[IMDB Long-Text Sentiment Tracker](https://github.com/Gyanankur23/IMDB-Movie-Reviews-Sentiment-Analysis)**: Long-string token classifier running on deep neural code.
-* 📬 **[Spam Email Pre-processing Classifier](https://github.com/Gyanankur23/Spam-Email-Detection)**: Clean text token tokenization script.
-* 🍕 **[Pizza Runner Operations Database](https://github.com/Gyanankur23/Pizza-Runner-Analytics)**: Relational schema transformations with complex multi-table analytics statements.
-* 📊 **[Social Media Impression Analytics Engine](https://github.com/Gyanankur23/Social-Media-Engagement-Dashboard)**: Planning utility tracking digital engagement indicators.
-* 💡 **[Fintech Project Management Forecaster](https://github.com/Gyanankur23/Fintech-PM-Forecasting)**: Completion timeline predictor driven by numerical analytical trends.
-* 🩺 **[DataBuzz Patient Diagnostic Workspace](https://github.com/Gyanankur23/Databuzz-March-2026-Patient-Diagnostic-Dashboard-Report)**: Clinical healthcare informatics interface.
-* ✏ Honor Roll **[Quiz App Logic](https://github.com/Gyanankur23/Quiz-App)**: Scripted scoring canvas sorting multiple testing arrays.
-* 💾 **[DBMS Practical Q&A Ledger](https://github.com/Gyanankur23/DBMS-Practical-Repository)**: Practical compilation displaying custom procedures and trigger scripts.
+### ⚡ The Legend of August 28: 23-Project Data Analytics & Forecasting Sprint
+> 💡 *A historical archive of 23 modular machine learning models, analytics notebooks, and dynamic pricing engines constructed and shipped continuously inside a single 24-hour cycle.*
+
+* 🎬 **[Netflix Watch Prediction 01](https://github.com/Gyanankur23/Netflix_Watch_Prediction_01)** & **[Genre Popularity Forecast 17](https://github.com/Gyanankur23/Netflix_Genre_Popularity_Forecast_17)**: Predictive deep retention modeling and genre alignment clusters.
+* 👔 **[LinkedIn Post Performance Tracker 30](https://github.com/Gyanankur23/Lindklkn_Post_Performance_Tracker_30)** & **[PYMK Edge Optimization 02](https://github.com/Gyanankur23/LinkedIn_PYMK_Optimization_02)**: Regression loops profiling CTR variances and algorithmic network node connections.
+* 🏪 **[Retail Store FootFall Optimizer 29](https://github.com/Gyanankur23/Retail_Store_FootFall_Optimizer_29)** & **[Zara Retail Sales Forecasting 18](https://github.com/Gyanankur23/Retail_Sales_Forecasting_Zara_18)**: Real-time floor occupancy mapping and predictive stock allocation matrices.
+* 🏡 **[Airbnb SEO Scorecard 28](https://github.com/Gyanankur23/Airbnb_SEO_Scorecard_28)** & **[Booking Trends 19](https://github.com/Gyanankur23/Airbnb_Booking_Trends_19)**: Property conversion scoring logic tied with multi-year seasonality evaluation arrays.
+* 🏎️ **[EV Charging Sales Optimization 26](https://github.com/Gyanankur23/EV_Charging_Sales_Optimization_Dashboard_26)**: Grid distribution simulator balancing power load thresholds and margins.
+* 🛒 **[Amazon Product Co-Purchase Graph 23](https://github.com/Gyanankur23/Amazon_Product_CoPurchase_Graph_23)** & **[Dynamic Pricing Simulator 05](https://github.com/Gyanankur23/Amazon_Dynamic_Pricing_Simulator_05)**: Market basket association rules network matching item dependencies.
+* 📦 **[Walmart Hurricane Buying Behavior 07](https://github.com/Gyanankur23/Walmart_Hurricane_Buying_Behavior_07)**: Risk-driven pipeline isolating extreme-weather product inventory anomalies.
+* 🚚 **[UPS ORION Route Optimizer 09](https://github.com/Gyanankur23/UPS_ORION_Route_Optimizer_09)** & **[Swiggy Delivery Time Predictor 11](https://github.com/Gyanankur23/Swiggy_Delivery_Time_Predictor_11)**: Traveling Salesperson algorithms tracking spatiotemporal ETA variables.
+* 🎯 **[Target Pregnancy Prediction Model 08](https://github.com/Gyanankur23/Target_Pregnancy_Prediction_Model_08)**: Replicating historic consumer purchase trigger indexes using structured ensemble classifiers.
+* 📊 **[Sprint Meta-Analysis Core Wrap 04](https://github.com/Gyanankur23/Meta-Analysis_of_all_projects_Wrap_4)** & **[Reusable Logic Block Library 02](https://github.com/Gyanankur23/Reusable_Logic_Block_Library_Wrap_2)**: Statistical distribution diagnostic logs and utility parsing modules engineered across the sprint.
+
+### 🤖 Applied Artificial Intelligence & Full-Stack Core
+* 🌐 **[MetaMindset Labs Architecture Studio](https://github.com/Gyanankur23/portfolio)**: Next.js 14 engine deploying custom user metrics portals, documentation parsers, and live payment gateways.
+* 🍄 **[Mushroom Edibility Predictor](https://github.com/Gyanankur23/Mushroom-Edibility-Predictor-App)**: Risk-mitigating scikit-learn classifier pipeline reporting ROC frames and feature distributions.
+* 🤖 **[GPB Aurion – Core AI Playground](https://github.com/Gyanankur23/GPB-AURION-)**: LLM conversational system managing custom persona configurations and memory states.
+* 📦 **[AuroraViz](https://github.com/Gyanankur23/AuroraViz)**: Production visualization wrapper package deployed globally on PyPI.
+* 💬 **[Next-Word Prediction App](https://github.com/Gyanankur23/Next-Word-Prediction-App)**: NLP language modeling script utilizing textual sequence tracking configurations.
+* 🪪 **[ESQI – UIDIA Data Hackathon Index](https://github.com/Gyanankur23/ESQI-enrollment-index-UIDIA-Data-Hackathon)**: National Aadhaar enrollment stress metrics predictive scoring application.
+* 📷 **[Face Detection Attendance System](https://github.com/Gyanankur23/Face-Detection-Attendance-System)**: Real-time OpenCV computer vision monitoring framework.
+
+### 📊 Corporate BI Dashboards & System Internals
+* 📊 **[FP20 Customer Support Intelligence](https://github.com/Gyanankur23/FP20-Analytics-Challenge-27)**: Operational analytics tracker monitoring dynamic corporate SLA parameters.
+* 🎯 **[Onyx Data Customer Satisfaction Studio](https://github.com/Gyanankur23/Onyx-Data-Challenge-July-2025-Customer-Satisfaction-and-Loyalty-Dashboard)**: High-density consumer behavior demographic data mapping.
+* 🩺 **[DataBuzz Patient Diagnostic Workspace](https://github.com/Gyanankur23/Databuzz-March-2026-Patient-Diagnostic-Dashboard-Report)**: Clinical informatics portal built for the March 2026 DataBuzz challenge.
+* 🍕 **[Pizza Runner Operations Relational Schema](https://github.com/Gyanankur23/Pizza-Runner-Analytics)**: Advanced MySQL analytical pipeline running schema cleaning scripts.
+* 🏫 **[DBMS Practical Q&A Ledger](https://github.com/Gyanankur23/DBMS-Practical-Q-A)**: Reference engine containing custom stored procedures, relational joins, and system triggers.
+* 🦍 **[Enterprise API Gateway Playground](https://github.com/Gyanankur23/kong)**: Personalized structural fork of `Kong/kong` exploring high-volume traffic management and runtime safety configurations.
 
 ---
 
@@ -196,7 +186,7 @@ My work bridges raw data and actionable intelligence through documentation, anal
 * 💡 **Selected Incubator Cohort** — E-Cell IIT Bombay Entrepreneurship Challenge
 * 🔬 **University Level Research Delegate** — 20th Aavishkar Inter-Collegiate Research Convention
 * 🤝 **NexFellow Cohort Scholar** — OSCI (Open Source Connect India Platform)
-* 📦 **Verified PyPI Shipped Author** — Successfully deployed global data visualization library ecosystem
+* 📦 **Verified PyPI Shipped Author** — Deployed global data visualization library ecosystem
 
 ---
 
