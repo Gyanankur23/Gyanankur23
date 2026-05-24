@@ -17,6 +17,9 @@
   <a href="https://portfolio-mp3sog7ed-gyanankur23s-projects.vercel.app/">
     <img src="https://img.shields.io/badge/Live%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
   </a>
+  <a href="https://bold.pro/my/gyanankur-baruah-250802095536">
+    <img src="https://img.shields.io/badge/Bold.pro-0052FF?style=for-the-badge&logo=rocket&logoColor=white" alt="Bold.pro Profile" />
+  </a>
 </p>
 
 ---
@@ -31,10 +34,11 @@ This GitHub is **not a polished senior engineer portfolio**. It’s an aggressiv
 ---
 
 ## 📊 Core Metrics & Impact
-* 🚀 **132+ Projects** completed across data science, machine learning, and web development.
-* 📦 **120+ Public GitHub repositories** actively maintained.
-* 💼 **22+ Internships & Job Simulations** completed across technical and strategic domains.
-* 📜 **400+ Specialized Certifications** across Cloud Systems, GenAI architectures, and Advanced Analytics.
+* 🚀 **140+ Projects Built** across data science, machine learning libraries, and full-stack SaaS platforms.
+* 📦 **150+ GitHub Repositories** actively tracked and maintained.
+* 💼 **30+ Internships & Corporate Roles** completed across technical, automation, and strategic domains.
+* 📜 **500+ Specialized Credentials** across Cloud Systems, GenAI architectures, and Advanced Analytics.
+* 👥 **2,500+ Community Members Led** across data science and learning initiatives.
 * 🎮 **Top 5% Google Arcade** contributor | E-Cell IIT Bombay Participant | OSCI Devpost Contributor.
 
 ---
@@ -44,120 +48,102 @@ This GitHub is **not a polished senior engineer portfolio**. It’s an aggressiv
 ### 📊 Data Science, ML & Engineering
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logicColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-* **Advanced Toolkits:** Weka (Pattern Mining) · PySpark · ARFF Frameworks · XAMPP Environment
+* **Advanced Toolkits:** Weka (Pattern Mining) · PySpark · ARFF Frameworks · XAMPP Environment · Random Forest · Decision Trees · KNN · TensorFlow Basics
 
 ### 📈 Data Visualization & Business Intelligence
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E12426?style=for-the-badge&logo=tableau&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-* **Libraries:** Matplotlib · Seaborn · Plotly · Dash Architecture · ggplot Frameworks
+* **Libraries:** Matplotlib · Seaborn · Plotly · Dash Architecture · ggplot Frameworks · Power Query · DAX Modeling
 
 ### 💻 Web Development & Architectures
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-* **Framework Tools:** Vite · JSON Engineering · JSX Syntax · HTML5 & CSS3 Standard layouts
-
-### ⚙️ CI/CD, Deployment & Documentation
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+* **Framework Tools:** Vite · JSON Engineering · JSX Syntax · HTML5 & CSS3 · PWA · Supabase · Firebase · MongoDB
 
 ---
 
-## 💼 Professional Experience & Internships
-> 💡 *A comprehensive chronological matrix of my 22+ professional engagements, technical internships, and corporate job simulations.*
+## 💼 Highlighted Professional Experience & Internships
+> 💡 *A snapshot of my latest and most impactful engagements out of 30+ completed roles.*
 
-| Organization | Role / Domain | Duration / Timeline | Mode |
+| Organization | Role / Domain | Duration / Timeline | Core Focus / Framework |
 | :--- | :--- | :--- | :--- |
-| **Excelerate** | AI Powered Data Analyst Intern | Oct – Nov 2025 | Remote |
-| **Basti ki Pathshala** | Fundraising Intern | Oct – Nov 2025 | Remote |
-| **Excelerate** | Data Science Intern | Aug – Sep 2025 | Remote |
-| **WeDidIT** | Book Marketing Intern | Aug – Sep 2025 | Remote |
-| **Naviotech** | Campus Ambassador Intern | Aug – Sep 2025 | Remote |
-| **Skill Academy** | Data Science Intern | Aug – Sep 2025 | Remote |
-| **Muskurahat Foundation** | Fundraising Intern | Aug – Sep 2025 | Remote |
-| **Edunet Foundation** | AIML Intern | Jun – Jul 2025 | Remote |
-| **SkillCraft Technology** | Data Science and Analytics Intern | Jun – Jul 2025 | Remote |
-| **Future Interns** | Data Analyst Intern | May – Jun 2025 | Remote |
-| **Google Arcade** | Facilitator Program Trainee | Apr – Jun 2025 | Remote |
-| **Excelerate** | Project Management Intern | Apr – May 2025 | Remote |
-| **Excelerate** | Business Development Intern | Apr – May 2025 | Remote |
-| **AlfidoTech** | Data Analyst Intern | Apr – May 2025 | Remote |
-| **Prerna Edupro** | Web Developer Intern | Jan – Mar 2025 | On-Site |
-| **Millenium Fashions** | Content Marketing Intern | Jan – Feb 2025 | Remote |
-| **Quantum Learnings** | Data Science Intern | Dec 2024 – Jan 2025 | Remote |
-| **VaultofCodes** | AI and Prompt Engineering Intern | Nov – Dec 2024 | Remote |
-| **Inamigos Foundation** | Virtual Volunteering Intern | Sep – Oct 2024 | Remote |
-| **Marpu Foundation** | Social Media Marketing Intern | Aug – Sep 2024 | Remote |
-| **VaultofCodes** | Python Programming Intern | May – Jun 2024 | Remote |
-| **Pawzz** | Fundraising Intern | Jul – Aug 2023 | Remote |
+| **Machine Learning Open Shelf** | Founder | Jan 2026 – Present | Founded open-source initiative making ML resources structured. |
+| **MetaMindset Labs** | Founder & Documentation Lead | Jul 2025 – Present | Architecting documentation frameworks and SaaS application portals. |
+| **DataFam Mumbai** | Community Moderator (Admin) | Jul 2025 – Present | Leading engagement and events for **2,800+** data science members. |
+| **Resourceio** | Global Open-Source Innovation Mentee | Jan – Mar 2026 | Apertre 3.0 cohort engineering scalable AI/ML solutions. |
+| **Excelerate** | Smart Automation Intern | Feb – Mar 2026 | *Star Performer* — Designed workflows utilizing no-code AI tooling. |
+| **Excelerate** | Digital Strategy Trainee | Feb – Mar 2026 | *Star Performer* — Formulated core marketing growth via RACE. |
+| **Excelerate** | Project Management Associate | Feb – Mar 2026 | *Star Performer* — Structured real-world agile roadmap iterations. |
+| **Excelerate** | Innovation Trainee | Feb – Mar 2026 | *Star Performer* — Built product concepts via Design Thinking. |
+| **Excelerate** | Data Visualization Associate | Feb – Mar 2026 | *Star Performer* — Formed Power BI stakeholder dashboard layers. |
+| **Excelerate** | AI Powered Data Analyst Intern | Oct – Nov 2025 | Developed interactive intelligence frameworks. |
 
 ---
 
-## 📂 Repository Index & Technical Highlights
+## 📂 Featured Shipped Artifacts
+
+### 📦 Open Source & Python Utilities
+* **[AuroraViz](https://github.com/Gyanankur23/AuroraViz):** Modern Python visualization library published globally on PyPI. Features light/dark curated palettes helping analysts craft clean technical graphics.
 
 ### 🤖 AI, Machine Learning & NLP
-* **[Study-buddy-AI](https://github.com/Gyanankur23/Study-buddy-AI):** Multi-agent educational framework developed for Devpost/Google Hackathons.
-* **[Ecommerce-sentiment-analysis](https://github.com/Gyanankur23/Ecommerce-sentiment-analysis):** Polarity classification pipeline leveraging TextBlob processing.
-* **[Decision-Tree-Classifier](https://github.com/Gyanankur23/Decision-Tree-Classifier):** Pure ML implementation for structured predictive analytics tasks.
-* **[Gyanankur-TF-IDF-Assignment-1](https://github.com/Gyanankur23/Gyanankur-TF-IDF-Assignment-1):** Natural Language Processing assignment detailing keyword extraction matrix logic.
-* **[Hack-the-Future-Gen-AI-Sprint](https://github.com/Gyanankur23/Hack-the-Future-Gen-AI-Sprint):** Rapid-deployment generative AI dashboard sprint deliverables.
+* **[Mushroom Edibility Predictor](https://github.com/Gyanankur23/Mushroom-Edibility-Predictor):** End-to-end risk-aware ML web application rendering Confusion Matrices, ROC Curves, and feature importances.
+* **[GPB Aurion – AI Chatbot](https://github.com/Gyanankur23/GPB-Aurion):** Conversational assistant using LangChain prompt chaining, context memory, and customizable personas.
+* **[Study-buddy-AI](https://github.com/Gyanankur23/Study-buddy-AI):** Multi-agent educational task solver created for Devpost / Google Hackathons.
 
-### 📊 Data Analytics & Interactive Dashboards
-* **[Social-Media-Engagement-Dashboard](https://github.com/Gyanankur23/Social-Media-Engagement-Dashboard):** End-to-end data pipeline built for the Onyx Data Challenge (June 2025).
-* **[Mobile-Sales-Onyx-May-2025](https://github.com/Gyanankur23/Mobile-Sales-Onyx-May-2025):** Deep-dive sales engine analytics incorporating custom DAX modeling.
-* **[Onyx-Data-Challenge-July-2025](https://github.com/Gyanankur23/Onyx-Data-Challenge-July-2025):** Complete Customer Satisfaction & Loyalty optimization project.
-* **[Pizza-Runner-Analytics](https://github.com/Gyanankur23/Pizza-Runner-Analytics):** Complex SQL case study mapping operational metrics and delivery pipelines.
-* **[Road-Accident-Analysis-Dashboard](https://github.com/Gyanankur23/Road-Accident-Analysis-Dashboard):** Visual production engine analyzing over 50K+ vehicle records for safety patterns.
-* **[Weka-Hospital-Insights](https://github.com/Gyanankur23/Weka-Hospital-Insights):** Healthcare analytics data engine mining cross-department patterns.
-* **[FP20-Analytics-Challenge-27-28](https://github.com/Gyanankur23/FP20-Analytics-Challenge-27):** Enterprise-grade Power BI strategic execution dashboard layouts.
-
-### 💻 Web Development & Engineering Utilities
-* **[Recipe-sharing-platform](https://github.com/Gyanankur23/Recipe-sharing-platform):** Full-stack custom application tracking dietary preferences and user uploads.
-* **[Crafertube-Youtube-Clone](https://github.com/Gyanankur23/Crafertube-Youtube-Clone):** Component-driven, scalable frontend clone testing state management.
-* **[GPB-Nexus](https://github.com/Gyanankur23/GPB-Nexus):** Interactive architectural roadmap engine built for developer scaling.
-* **[Chess-App / Chess-Analysis](https://github.com/Gyanankur23/Chess-App):** Frontend game engine layout tied with tactical statistical metrics.
-* **[Secret-Code-Generator](https://github.com/Gyanankur23/Secret-Code-Generator):** Algorithmic Python application running targeted encryption/decryption models.
-* **[Mean-variance-std](https://github.com/Gyanankur23/Mean-variance-std):** Numeric calculations engine satisfying FreeCodeCamp Data Analysis validation.
+### 📊 Data Analytics & Strategic Dashboards
+* **[FP20 Support Intelligence Dashboard](https://github.com/Gyanankur23/FP20-Analytics-Challenge-27):** Interactive tracking matrix mapping SLA adherence, ticket distributions, and deep regional insights.
+* **[Social-Media-Engagement-Dashboard](https://github.com/Gyanankur23/Social-Media-Engagement-Dashboard):** Target reach optimization data engine created for the Onyx Data Challenge.
 
 ---
 
-## 🌍 Leadership & Community Impact
-* **Founder – MetaMindset Labs:** Curating high-impact public learning paths and experimental AI environments.
-* **Manager – DataFam Mumbai:** Leading active professional technical networking meetups for local data analysts.
-* **Research Delegate – Aavishkar Research:** Investigating visual data storytelling models and complex information display layouts.
-* **McKinsey & Company – Forward Program:** Hand-selected cohort participant focusing on leadership, systemic problem-solving, and resilience.
-* **LinkedIn Content Creator:** Reaching 1.5K+ industry connections with 200K+ organic impressions via deep technical data breakdowns.
+## 🥇 Key Awards & Distinctions
+* 🏆 **1st Position** — Redesign the Resume Challenge (Excelerate)
+* 🌟 **Distinction Holder** — McKinsey & Company Forward Program (2025)
+* 📈 **Top 5%** — Google Arcade Facilitator Program Trainee Cohort
+* 🧪 **Research Delegate** — Aavishkar 2025 (University Level Research Frameworks)
+* 🤝 **NexFellow Cohort** — OSCI (Open Source Connect India 2025)
 
 ---
 
-## 🎓 Education & Background
-* **Thakur Shyamnarayan College, Mumbai** *B.Sc. (Hons) Data Science (2024 - 2028)* 🥇 **Academic Standing: SGPA 9.55 (Semester 1) | SGPA 9.18 (Semester 2)**
-* **N.L. Dalmia High School** *Class 10th Metric Examination* | 📈 **Overall Score: 96.4%**
+## 🎓 Education & Performance Metrics
+* **Thakur Shyamnarayan Degree College, Mumbai University** *B.Sc. (Hons) Data Science (2024 - 2028)* 🥇 **Academic Standings: SGPA 9.55 (Sem 1) | SGPA 9.18 (Sem 2) | SGPA 9.45 (Sem 3)** *Active Commitments: Magazine Committee · DLLE Committee · Training & Placement Cell*
+* **N.L. Dalmia Institute of Management Studies** *Secondary Metrics (Class 10th)* | 📈 **Overall Score: 96.4% (10 CGPA)**
 
 ---
 
-## 🔗 Let's Connect & Collaborate
-* 👔 **LinkedIn:** [Gyanankur Baruah on LinkedIn](https://www.linkedin.com/in/gyanankur-baruah-797205338)
-* 🌐 **Primary Portfolio:** [Live Vercel Application Engine](https://portfolio-mp3sog7ed-gyanankur23s-projects.vercel.app/)
-* 📄 **Professional Profile:** [Bold.pro Executive Portfolio](https://bold.pro/my/gyanankur-baruah-250802095536)
-* 📧 **Primary Contact:** gyanankurcricket20@gmail.com
+## 🔗 Technical Platform Profiles & Links
+
+| Platform | Profile Routing Link | Credential Focus / Badging |
+| :--- | :--- | :--- |
+| 🌐 **Live Portfolio App** | [Vercel Production Mirror](https://portfolio-mp3sog7ed-gyanankur23s-projects.vercel.app/) | Central hub built via Next.js 14 |
+| 🎈 **Streamlit Share** | [Streamlit App Engine Hub](https://share.streamlit.io/user/gyanankur23) | Interactive cloud deployment catalog |
+| 👔 **LinkedIn Network** | [Gyanankur Baruah on LinkedIn](https://www.linkedin.com/in/gyanankur-baruah-797205338) | Industry connection & technical content feed |
+| ☁️ **Google Cloud Profile 1** | [Google Developer Profile A](https://skills.google/public_profiles/3c85cfbc-2cca-4b1e-a946-a48ae43d2f91) | BigQuery, Cloud Architectures, Machine Learning |
+| ☁️ **Google Cloud Profile 2** | [Google Developer Profile B](https://skills.google/public_profiles/d1648a16-ebd0-4b8a-9588-3d0bdea81f48) | Specialized Arcade Labs & GenAI tracks |
+| 💻 **Microsoft Learning** | [Microsoft Tech Profile](https://learn.microsoft.com/en-us/users/GyanankurBaruah-1209) | Fabric Infrastructure Suite & Azure Core Badges |
+| 🏅 **Credly Registry** | [Verified Credly Badges Portfolio](https://www.credly.com/users/gyanankur-baruah.a175da8c/badges#credly) | 500+ verifiable enterprise certificates |
+| 📊 **Onyx Data Hub** | [Onyx Data DNA Profile](https://datadna.onyxdata.co.uk/profile/?uwp_profile=gyanankurbaruah) | Global Data Challenge submissions mapping |
+| 🦾 **Salesforce** | [Trailblazer Tracker Profile](https://www.salesforce.com/trailblazer/ezqfq14cu93a05hv7f) | Business intelligence and platform configuration |
+| 🎲 **Kaggle** | [Kaggle Notebooks & Datasets](https://www.kaggle.com/gyanankurbaruah) | 5-Day Google AI Agent models & pipelines |
+| 🎯 **HackerRank** | [HackerRank Skill Verifications](https://www.hackerrank.com/profile/gyanankur9) | 3-Star SQL Specialist badge validation |
+| 🎓 **Udemy Learning** | [Udemy Student Profile](https://www.udemy.com/user/gyanankur-baruah-2/) | Professional Leadership Diploma Suite paths |
+
+* **Primary Communication Node:** gyanankur9@gmail.com
+* **Secondary Contact Node:** gyanankurcricket20@gmail.com
 
 ---
 
 ## 📈 Consistency Matrix
 ![Contributions Status](contributions%20(2).png)
-
-<p align="center"><i>Gyanankur Baruah — Data Scientist, AI Engineer, & High-Volume Builder</i></p>
