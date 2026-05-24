@@ -2,7 +2,7 @@
 ### 🚀 Data Scientist & AI Builder | High-Volume Proof-of-Work Archive
 
 <p align="center"> 
-  <a href="https://github.com/Gyanankur23">
+  <a href="[https://github.com/Gyanankur23](https://streak-stats.demolab.com?user=Gyanankur23&theme=highcontrast" alt="GitHub Streak)">
     <img src="https://streak-stats.demolab.com?user=Gyanankur23&theme=highcontrast" alt="GitHub Streak" />
   </a>
   <a href="https://github.com/Gyanankur23">
