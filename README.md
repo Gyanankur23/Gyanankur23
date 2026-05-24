@@ -160,8 +160,11 @@ So far this has resulted in:
 
 ## 🔗 Connect
 
-- **LinkedIn:** [linkedin.com/in/gyanankur-baruah](https://www.linkedin.com/in/gyanankur-baruah-797205338)  
-- **Portfolio:** [bold.pro/my/gyanankur-baruah](https://bold.pro/my/gyanankur-baruah-250802095536)
-- **Email:** gyanankurcricket20@gmail.com  
+- **LinkedIn:** [linkedin.com/in/gyanankur-baruah](https://www.linkedin.com/in/gyanankur-baruah-797205338)
+- **Portfolio_2:** [View Portfolio](https://portfolio-mp3sog7ed-gyanankur23s-projects.vercel.app/)
+- **Portfolio_2:** [bold.pro/my/gyanankur-baruah](https://bold.pro/my/gyanankur-baruah-250802095536)
+- **Email_1:** gyanankurcricket20@gmail.com
+- **Email_2:** gyanankurcricket20@gmail.com
+
 
 ---
