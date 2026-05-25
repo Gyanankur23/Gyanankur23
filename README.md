@@ -1,7 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=6800&pause=1000&color=08F7CE&background=0057FD&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Gyanankur+Baruah)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Animated Demo" width="300" />
-
+<table>
+  <tr>
+    <td width="70%" valign="middle">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Data+Science+and+AI+Builder;Professional+Documentation+Architect;Machine+Learning+Researcher" alt="Typing SVG" />
+    </td>
+    <td width="30%" align="right">
+      <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Animated Demo" width="150" />
+    </td>
+  </tr>
+</table>
 
 ### 🚀 Data Science & AI Builder | 
 Professional Documentation Architect | Machine Learning Researcher |
