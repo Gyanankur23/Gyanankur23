@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=08F7CE&center=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Gyanankur+Baruah)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=6800&pause=1000&color=08F7CE&background=0057FD&center=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Gyanankur+Baruah)](https://git.io/typing-svg)
 
 ### 🚀 Data Scientist & AI Builder | High-Volume Proof-of-Work Archive
 
