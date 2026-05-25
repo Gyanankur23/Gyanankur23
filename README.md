@@ -19,27 +19,6 @@ Professional Documentation Architect | Machine Learning Researcher |
   </a>
 </p>
 
-# 🏆 My GitHub Achievements
-
-Here are the official achievements I have unlocked on my GitHub profile:
-
-<div align="center">
-  <img src="https://githubusercontent.com" width="150px">
-  <p><b>Quickdraw</b></p>
-  <br>
-  
-  <img src="https://githubusercontent.com" width="150px">
-  <p><b>Pull Shark</b></p>
-  <br>
-
-  <img src="https://githubusercontent.com" width="150px">
-  <p><b>YOLO</b></p>
-  <br>
-
-  <img src="https://githubusercontent.com" width="150px">
-  <p><b>Pair Extraordinaire</b></p>
-</div>
-
 
 <p align="center">
   <a href="https://portfolio-one-alpha-30.vercel.app/#"><img src="https://img.shields.io/badge/Live%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" /></a>
@@ -59,6 +38,20 @@ Here are the official achievements I have unlocked on my GitHub profile:
   <a href="https://www.hackerrank.com/profile/gyanankur9"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
   <a href="https://www.udemy.com/user/gyanankur-baruah-2/"><img src="https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white" alt="Udemy" /></a>
 </p>
+
+# 🏆 My GitHub Achievements
+
+<img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="175px">
+<p>Quickdraw</p>
+
+<img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="175px">
+<p>Pull Shark</p>
+
+<img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="175px">
+<p>YOLO</p>
+
+<img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="175px">
+<p>Pair Extraordinaire</p>
 
 ---
 
