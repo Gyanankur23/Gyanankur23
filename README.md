@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="70%" valign="middle">
-     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Data+Science+Builder+|+Doc+Architect+|+ML+Researcher&erase=false" alt="Typing SVG" />
+     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Data+Science+Builder+|+Documentation+Architect+|+ML+Researcher&erase=false" alt="Typing SVG" />
     </td>
     <td width="30%" align="right">
       <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Animated Demo" width="150" />
