@@ -88,7 +88,7 @@ My work bridges raw data and actionable intelligence through documentation, anal
 
 ---
 
-## 🛠️ Technical Expertise (As Rendered in Portfolio)
+## 🛠️ Technical Expertise
 
 ### 📊 Data & Analytics
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
