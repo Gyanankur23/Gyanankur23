@@ -2,12 +2,6 @@
 
 ### 🚀 Data Scientist & AI Builder | High-Volume Proof-of-Work Archive
 
-<p align="center">
-  <a href="https://git.io">
-    <img src="https://demolab.com🚀+Welcome+to+my+GitHub+Profile!;⚡+Full+Stack+Developer+%26+Data+Enthusiast;🏆+Tracking+Real-Time+Achievements...;🔥+Check+out+my+live+stats+below!" alt="Typing Effect" />
-  </a>
-</p>
-
 
 <p align="center">
   <a href="https://git.io/streak-stats">
