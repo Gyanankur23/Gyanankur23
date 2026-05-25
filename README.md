@@ -43,7 +43,9 @@
   <a href="https://www.kaggle.com/gyanankurbaruah"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
   <a href="https://www.hackerrank.com/profile/gyanankur9"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
   <a href="https://www.udemy.com/user/gyanankur-baruah-2/"><img src="https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white" alt="Udemy" /></a>
-</p>### 🏆 My GitHub Achievements
+</p>
+
+### 🏆 My GitHub Achievements
 <table>
   <tr>
     <td align="center">
@@ -66,8 +68,9 @@
 </table>
 
 ---
-
-## 🧠 Executive Summary
+<h2 align="left" style="color: #58a6ff; font-size: 32px; border-bottom: 2px solid #30363d; padding-bottom: 10px;">
+  🧠 Executive Summary
+</h2>
 
 I am a **Final Year Data Science student at Thakur Shyamnarayan Degree College, Mumbai, maintaining a 9.45 SGPA**. As the **Documentation Lead at MetaMindset Labs**, I specialize in reverse engineering messy documents into clean, structured formats using code-driven approaches. I also lead **Machine Learning Open Shelf**, focusing on practical AI solutions and data-driven dashboards.
 
