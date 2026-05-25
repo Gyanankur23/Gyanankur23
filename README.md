@@ -43,14 +43,25 @@
   <a href="https://www.kaggle.com/gyanankurbaruah"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
   <a href="https://www.hackerrank.com/profile/gyanankur9"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
   <a href="https://www.udemy.com/user/gyanankur-baruah-2/"><img src="https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white" alt="Udemy" /></a>
-</p>
-### 🏆 My GitHub Achievements
+</p>### 🏆 My GitHub Achievements
 <table>
   <tr>
-    <td><img src="https://github.githubassets.com/assets/quickdraw-default-94c6f376f874.png" width="50px"></td>
-    <td><img src="https://github.githubassets.com/assets/pull-shark-default-c56a81b37651.png" width="50px"></td>
-    <td><img src="https://github.githubassets.com/assets/yolo-default-e902996d9f78.png" width="50px"></td>
-    <td><img src="https://github.githubassets.com/assets/pair-extraordinaire-default-894982635956.png" width="50px"></td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="80px"><br>
+      <sub>Quickdraw</sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="80px"><br>
+      <sub>Pull Shark</sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="80px"><br>
+      <sub>YOLO</sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="80px"><br>
+      <sub>Pair Extraordinaire</sub>
+    </td>
   </tr>
 </table>
 
