@@ -2,6 +2,13 @@
 ### 🚀 Data Scientist & AI Builder | High-Volume Proof-of-Work Archive
 
 <p align="center">
+  <a href="https://github.com">
+    <img src="https://vercel.app" alt="Gyanankur23 GitHub Trophies" />
+  </a>
+</p>
+
+
+<p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Gyanankur23&theme=dark" alt="GitHub Streak" />
   </a>
