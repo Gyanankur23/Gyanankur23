@@ -19,6 +19,28 @@ Professional Documentation Architect | Machine Learning Researcher |
   </a>
 </p>
 
+# 🏆 My GitHub Achievements
+
+Here are the official achievements I have unlocked on my GitHub profile:
+
+<div align="center">
+  <img src="https://githubusercontent.com" width="150px">
+  <p><b>Quickdraw</b></p>
+  <br>
+  
+  <img src="https://githubusercontent.com" width="150px">
+  <p><b>Pull Shark</b></p>
+  <br>
+
+  <img src="https://githubusercontent.com" width="150px">
+  <p><b>YOLO</b></p>
+  <br>
+
+  <img src="https://githubusercontent.com" width="150px">
+  <p><b>Pair Extraordinaire</b></p>
+</div>
+
+
 <p align="center">
   <a href="https://portfolio-one-alpha-30.vercel.app/#"><img src="https://img.shields.io/badge/Live%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" /></a>
   <a href="https://share.streamlit.io/user/gyanankur23"><img src="https://img.shields.io/badge/Streamlit%20Hub-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit Share" /></a>
