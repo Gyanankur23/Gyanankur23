@@ -39,6 +39,11 @@
   <a href="https://learn.microsoft.com/en-us/users/GyanankurBaruah-1209"><img src="https://img.shields.io/badge/Microsoft_Learn-00A4EF?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft" /></a>
   <a href="https://www.credly.com/users/gyanankur-baruah.a175da8c/badges#credly"><img src="https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white" alt="Credly" /></a>
   <a href="https://datadna.onyxdata.co.uk/profile/?uwp_profile=gyanankurbaruah"><img src="https://img.shields.io/badge/Onyx_Data-5F56FF?style=flat-square&logo=analytics&logoColor=white" alt="Onyx" /></a>
+
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Gyanankur23.Gyanankur23)
+
+
   <a href="https://www.salesforce.com/trailblazer/ezqfq14cu93a05hv7f"><img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce" /></a>
   <a href="https://www.kaggle.com/gyanankurbaruah"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
   <a href="https://www.hackerrank.com/profile/gyanankur9"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
