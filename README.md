@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=6800&pause=1000&color=08F7CE&background=0057FD&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Gyanankur+Baruah)](https://git.io/typing-svg)
 
-![Top Langs](https://gyanankur23-readme-stats.vercel.app/api/top-langs/?username=Gyanankur23&layout=pie&theme=dark&hide=jupyter%20notebook&langs_count=20)
 
   <tr>
     <td width="70%" valign="middle">
@@ -70,6 +69,10 @@
 
 ---
 <h2 align="left" style="color: #58a6ff; font-size: 32px; border-bottom: 2px solid #30363d; padding-bottom: 10px;">
+
+
+![Top Langs](https://gyanankur23-readme-stats.vercel.app/api/top-langs/?username=Gyanankur23&layout=pie&theme=dark&hide=jupyter%20notebook&langs_count=20)
+
   🧠 Executive Summary
 </h2>
 
