@@ -2,6 +2,8 @@
 
 ![Gyanankur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gyanankur23&include_all_commits=true&show_icons=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyanankur23&hide=jupyter%20notebook&layout=donut&langs_count=20)
+
 [![Top Languages](https://github-profile-metrics.vercel.app/api/top-langs?username=Gyanankur23)](https://github.com/HardcodeCoder/Github-Profile-Metrics)
 
 <table>
