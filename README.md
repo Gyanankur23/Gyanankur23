@@ -22,14 +22,11 @@
 </p>
 
 
-<p align="center">
   <a href="https://portfolio-one-alpha-30.vercel.app/#"><img src="https://img.shields.io/badge/Live%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" /></a>
   <a href="https://share.streamlit.io/user/gyanankur23"><img src="https://img.shields.io/badge/Streamlit%20Hub-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit Share" /></a>
   <a href="https://bold.pro/my/gyanankur-baruah-250802095536"><img src="https://img.shields.io/badge/Bold.pro-0052FF?style=for-the-badge&logo=rocket&logoColor=white" alt="Bold.pro" /></a>
   <a href="https://www.linkedin.com/in/gyanankur-baruah-797205338"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
 
-<p align="center">
   <a href="https://skills.google/public_profiles/3c85cfbc-2cca-4b1e-a946-a48ae43d2f91"><img src="https://img.shields.io/badge/Google_Cloud_A-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP A" /></a>
   <a href="https://skills.google/public_profiles/d1648a16-ebd0-4b8a-9588-3d0bdea81f48"><img src="https://img.shields.io/badge/Google_Cloud_B-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP B" /></a>
   <a href="https://learn.microsoft.com/en-us/users/GyanankurBaruah-1209"><img src="https://img.shields.io/badge/Microsoft_Learn-00A4EF?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft" /></a>
@@ -42,7 +39,7 @@
   <a href="https://www.kaggle.com/gyanankurbaruah"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
   <a href="https://www.hackerrank.com/profile/gyanankur9"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
   <a href="https://www.udemy.com/user/gyanankur-baruah-2/"><img src="https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white" alt="Udemy" /></a>
-</p>
+
 
 ### 🏆 My GitHub Achievements
 <table>
