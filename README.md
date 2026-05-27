@@ -3,7 +3,7 @@
 
 
 ![Top Langs](https://gyanankur23-readme-stats.vercel.app/api/top-langs/?username=Gyanankur23&hide=jupyter%20notebook&langs_count=20&layout=donut-vertical)
-
+![Top Langs](https://gyanankur23-readme-stats.vercel.app/api/top-langs/?username=Gyanankur23&hide=jupyter%20notebook&langs_count=20&layout=pie)
 <table>
   <tr>
     <td width="70%" valign="middle">
