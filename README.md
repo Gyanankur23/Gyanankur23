@@ -1,9 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=6800&pause=1000&color=08F7CE&background=0057FD&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Gyanankur+Baruah)](https://git.io/typing-svg)
+
 ![Hits](https://hits.sh/github.com/Gyanankur23.svg?style=flat-square&label=Visitors&extraCount=700)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Gyanankur23.Gyanankur23&left_text=Visitors&right_text=1000+)
-![Profile Views](https://komarev.com/ghpvc/?username=Gyanankur23&color=blue&label=Profile%20Views%20(1000+))
-![Profile Views](https://komarev.com/ghpvc/?username=Gyanankur23&color=blue)
-![Hits](https://hits.sh/github.com/Gyanankur23.svg?style=flat-square)
+
 
   <tr>
     <td width="70%" valign="middle">
@@ -44,8 +42,6 @@
   <a href="https://www.credly.com/users/gyanankur-baruah.a175da8c/badges#credly"><img src="https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white" alt="Credly" /></a>
   <a href="https://datadna.onyxdata.co.uk/profile/?uwp_profile=gyanankurbaruah"><img src="https://img.shields.io/badge/Onyx_Data-5F56FF?style=flat-square&logo=analytics&logoColor=white" alt="Onyx" /></a>
 
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Gyanankur23.Gyanankur23)
 
 
   <a href="https://www.salesforce.com/trailblazer/ezqfq14cu93a05hv7f"><img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce" /></a>
