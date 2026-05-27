@@ -2,8 +2,7 @@
 
 ![Hits](https://hits.sh/github.com/Gyanankur23.svg?style=flat-square&label=Visitors&extraCount=700)
 
-
-  <tr>
+<tr>
     <td width="70%" valign="middle">
      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Data+Science+Builder+|+Doc+Architect+|+ML+Researcher&erase=false" alt="Typing SVG" />
     </td>
@@ -22,8 +21,8 @@
 </p>
 
 
-  <a href="[https://github.com/Gyanankur23](https://awesome-github-stats.azurewebsites.net/user-stats/Gyanankur23?cardType=level-alternate&theme=tokyonight&fontFamily=42dot%20Sans&preferLogin=false&Points.Commits=100&Points.ContributedToOwnRepositories=10&Points.Followers=14&Points.CommitsToMyRepositories=250)">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Gyanankur23?cardType=level-alternate&theme=tokyonight&fontFamily=42dot%20Sans&preferLogin=false&Points.Commits=100&Points.ContributedToOwnRepositories=10&Points.Followers=14&Points.CommitsToMyRepositories=250" alt="My Awesome Stats" />
+<a href="[https://github.com/Gyanankur23](https://awesome-github-stats.azurewebsites.net/user-stats/Gyanankur23?cardType=level-alternate&theme=tokyonight&fontFamily=42dot%20Sans&preferLogin=false&Points.Commits=100&Points.ContributedToOwnRepositories=10&Points.Followers=14&Points.CommitsToMyRepositories=250)">
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/Gyanankur23?cardType=level-alternate&theme=tokyonight&fontFamily=42dot%20Sans&preferLogin=false&Points.Commits=100&Points.ContributedToOwnRepositories=10&Points.Followers=14&Points.CommitsToMyRepositories=250" alt="My Awesome Stats" />
   </a>
 </p>
 
