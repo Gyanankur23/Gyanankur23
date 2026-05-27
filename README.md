@@ -12,13 +12,9 @@
   </tr>
 </table>
 
-
-<p align="center">
 <a href="https://git.io/streak-stats">
 <img src="https://streak-stats.demolab.com?user=Gyanankur23&theme=dark" alt="GitHub Streak" />
 </a>
-</p>
-
 
 <a href="[https://github.com/Gyanankur23](https://awesome-github-stats.azurewebsites.net/user-stats/Gyanankur23?cardType=level-alternate&theme=tokyonight&fontFamily=42dot%20Sans&preferLogin=false&Points.Commits=100&Points.ContributedToOwnRepositories=10&Points.Followers=14&Points.CommitsToMyRepositories=250)">
 <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Gyanankur23?cardType=level-alternate&theme=tokyonight&fontFamily=42dot%20Sans&preferLogin=false&Points.Commits=100&Points.ContributedToOwnRepositories=10&Points.Followers=14&Points.CommitsToMyRepositories=250" alt="My Awesome Stats" />
