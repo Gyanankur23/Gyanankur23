@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=6800&pause=1000&color=08F7CE&background=0057FD&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Gyanankur+Baruah)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Gyanankur23&color=blue)
+![Hits](https://hits.sh/github.com/Gyanankur23.svg?style=flat-square)
 
   <tr>
     <td width="70%" valign="middle">
