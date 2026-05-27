@@ -2,7 +2,7 @@
 
 
 
-[![Top Languages](https://github-profile-metrics.vercel.app/api/top-langs?username=Gyanankur23)](https://github.com/HardcodeCoder/Github-Profile-Metrics)
+![Top Langs](https://gyanankur23-readme-stats.vercel.app/api/top-langs/?username=Gyanankur23&hide=jupyter%20notebook&langs_count=20&layout=donut)
 
 <table>
   <tr>
