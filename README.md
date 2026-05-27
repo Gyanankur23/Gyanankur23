@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=6800&pause=1000&color=08F7CE&background=0057FD&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Gyanankur+Baruah)](https://git.io/typing-svg)
 
-[![HardcodeCoder's GitHub metrics](https://github-profile-metrics.vercel.app/api/Gyanankur23=HardcodeCoder)](https://github.com/HardcodeCoder/Github-Profile-Metrics)
+[![HardcodeCoder's GitHub metrics](https://github-profile-metrics.vercel.app/api?Gyanankur23=HardcodeCoder)](https://github.com/HardcodeCoder/Github-Profile-Metrics)
 
 <table>
   <tr>
