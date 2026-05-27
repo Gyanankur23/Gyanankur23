@@ -2,6 +2,8 @@
 
 [![HardcodeCoder's GitHub metrics](https://github-profile-metrics.vercel.app/api?username=Gyanankur23)](https://github.com/HardcodeCoder/Github-Profile-Metrics)
 
+[![Top Languages](https://github-profile-metrics.vercel.app/api/top-langs?username=Gyanankur23)](https://github.com/HardcodeCoder/Github-Profile-Metrics)
+
 <table>
   <tr>
     <td width="70%" valign="middle">
