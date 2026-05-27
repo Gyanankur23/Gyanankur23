@@ -1,10 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=6800&pause=1000&color=08F7CE&background=0057FD&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Gyanankur+Baruah)](https://git.io/typing-svg)
 
+![Top Langs](https://gyanankur23-readme-stats.vercel.app/api/top-langs/?username=Gyanankur23&layout=pie&theme=dark&hide=jupyter%20notebook&langs_count=20)
 
-
-![Top Langs](https://gyanankur23-readme-stats.vercel.app/api/top-langs/?username=Gyanankur23&hide=jupyter%20notebook&langs_count=20&layout=pie&theme=dark&show_icons=true)
-<table>
-![Gyanankur's GitHub stats](https://gyanankur23-readme-stats.vercel.app/api?username=Gyanankur23&include_all_commits=true&show_icons=true&theme=dark)
   <tr>
     <td width="70%" valign="middle">
      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Data+Science+Builder+|+Doc+Architect+|+ML+Researcher&erase=false" alt="Typing SVG" />
