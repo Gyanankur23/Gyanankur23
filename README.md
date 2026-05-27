@@ -2,7 +2,7 @@
 
 
 
-![Top Langs](https://gyanankur23-readme-stats.vercel.app/api/top-langs/?username=Gyanankur23&langs_count=20&layout=donut)
+![Top Langs](https://gyanankur23-readme-stats.vercel.app/api/top-langs/?username=Gyanankur23&hide=jupyter%20notebook&langs_count=20&layout=donut-vertical)
 
 <table>
   <tr>
