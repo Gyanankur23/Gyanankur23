@@ -21,6 +21,8 @@
   </a>
 </p>
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Gyanankur23?cardType=level-alternate&theme=highcontrast&fontFamily=&preferLogin=false&Points.Commits=332&Points.ContributedToNotOwnerRepositories=2&Points.CreatedRepositories=167&Points.Followers=14&Points.PullRequests=9&Points.CommitsToMyRepositories=3300)](https://git.io/awesome-stats-card)
+
 
   <a href="https://portfolio-one-alpha-30.vercel.app/#"><img src="https://img.shields.io/badge/Live%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" /></a>
   <a href="https://share.streamlit.io/user/gyanankur23"><img src="https://img.shields.io/badge/Streamlit%20Hub-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit Share" /></a>
