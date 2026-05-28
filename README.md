@@ -16,10 +16,6 @@
 <img src="https://streak-stats.demolab.com?user=Gyanankur23&theme=dark" alt="GitHub Streak" />
 </a>
 
-<a href="[https://github.com/Gyanankur23](https://awesome-github-stats.azurewebsites.net/user-stats/Gyanankur23?cardType=level-alternate&theme=tokyonight&fontFamily=42dot%20Sans&preferLogin=false&Points.Commits=100&Points.ContributedToOwnRepositories=10&Points.Followers=14&Points.CommitsToMyRepositories=250)">
-<img src="https://awesome-github-stats.azurewebsites.net/user-stats/Gyanankur23?cardType=level-alternate&theme=tokyonight&fontFamily=42dot%20Sans&preferLogin=false&Points.Commits=100&Points.ContributedToOwnRepositories=10&Points.Followers=14&Points.CommitsToMyRepositories=250" alt="My Awesome Stats" />
-  </a>
-</p>
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Gyanankur23?cardType=level-alternate&theme=highcontrast&fontFamily=&preferLogin=false&Points.Commits=332&Points.ContributedToNotOwnerRepositories=2&Points.CreatedRepositories=167&Points.Followers=14&Points.PullRequests=9&Points.CommitsToMyRepositories=3300)](https://git.io/awesome-stats-card)
 
