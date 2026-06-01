@@ -13,7 +13,7 @@
 </table>
 
 <a href="https://git.io/streak-stats">
-<img src="https://streak-stats.demolab.com?user=Gyanankur23&theme=dark" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Gyanankur23&theme=dark" alt="GitHub Streak"/>
 </a>
 
 
