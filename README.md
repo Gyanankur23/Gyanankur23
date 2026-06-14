@@ -265,4 +265,5 @@ My work bridges raw data and actionable intelligence through documentation, anal
 ---
 
 ## 📈 Consistency Matrix
-![Contributions Status](contributions%20(2).png)
+
+<img width="845" height="603" alt="image" src="https://github.com/user-attachments/assets/f98f202a-4ab1-44b8-81d2-766877e18568" />
